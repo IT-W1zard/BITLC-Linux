@@ -1,7 +1,5 @@
 # BITLC-Linux
 
-## Overview
-
 This repository contains all lessons and materials learned in the BITLC Linux course.  
 It covers the fundamental concepts of working with Linux systems, including command-line usage, file management, and system operations.  
 
