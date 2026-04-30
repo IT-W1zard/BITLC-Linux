@@ -9,11 +9,19 @@ It covers the fundamental concepts of working with Linux systems, including comm
 The goal of this repository is to document the learning progress and provide a structured reference for all important topics covered during the course.  
 
 ## Contents
--
--
--
--
--
+Introduction to Linux
+-  - [📘](./Lesson-01/README.md)
+-  - [📘](./Lesson-02/README.md)
+-  - [📘](./Lesson-03/README.md)
+-  - [📘](./Lesson-04/README.md)
+-  - [📘](./Lesson-05/README.md)
+-  - [📘](./Lesson-06/README.md)
+-  - [📘](./Lesson-07/README.md)
+-  - [📘](./Lesson-08/README.md)
+-  - [📘](./Lesson-09/README.md)
+-  - [📘](./Lesson-10/README.md)
+-  - [📘](./Lesson-11/README.md)
+
 
 ## Purpose
 
@@ -24,9 +32,9 @@ This repository is designed to:
 - Serve as a reference for future projects
 - Support continuous learning in Linux
 
-## You will learn
-- How to work with a Linux system
-- Basic command-line usage
-- How to navigate and manage files
-- Understanding system structure
-- General concepts of system administration
+## Goals
+- Understand how Linux systems work
+- Learn basic command-line usage
+- Navigate and manage files efficiently
+- Build a solid foundation for further Linux learning
+- Document progress throughout the course
